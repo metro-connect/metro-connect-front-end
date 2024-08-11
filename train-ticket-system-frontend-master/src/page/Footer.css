@@ -1,0 +1,29 @@
+.text-color {
+    color: #ffffff !important;
+  }
+  
+  .text-color-4 {
+    color: #cccccc !important;
+  }
+  
+  .bg-color {
+    background-color: #343a40 !important;
+  }
+  
+  .custom-bg-text {
+    color: #ffffff !important;
+  }
+  
+  .custom-bg-text:hover {
+    color: #f8f9fa !important;
+  }
+  
+  .btn-rounded {
+    border-radius: 50px;
+  }
+  
+  .footer-logo {
+    max-width: 150px;
+    margin-bottom: 20px;
+  }
+  

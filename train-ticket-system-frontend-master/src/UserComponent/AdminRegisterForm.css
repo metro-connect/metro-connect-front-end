@@ -1,0 +1,36 @@
+body {
+    background-color: #c1c7c9; /* Light grey background */
+  }
+  
+  .form-card {
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .bg-color {
+    background-color: #007bff; /* Bootstrap primary color */
+  }
+  
+  .text-color {
+    color: #007bff; /* Bootstrap dark color */
+  }
+  
+  .card-header {
+    background-color: #007bff; /* Bootstrap primary color */
+    color: rgb(255, 255, 255);
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #f5f7fa;
+    border-color: #0056b3;
+  }
+  
+  .shadow-lg {
+    box-shadow: 0 1rem 3rem rgba(27, 43, 61, 0.175);
+  }
+  
